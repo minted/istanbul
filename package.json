@@ -66,7 +66,7 @@
     "dependencies": {
         "esprima": "2.0.x",
         "escodegen": "1.3.x",
-        "handlebars": "1.3.x",
+        "handlebars": "4.7.x",
         "mkdirp": "0.5.x",
         "nopt": "3.x",
         "fileset": "0.1.x",
